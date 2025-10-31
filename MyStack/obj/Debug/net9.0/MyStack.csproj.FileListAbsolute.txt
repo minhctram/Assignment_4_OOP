@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\bin\Debug\net9.0\MyStack.exe
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\bin\Debug\net9.0\MyStack.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\bin\Debug\net9.0\MyStack.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\bin\Debug\net9.0\MyStack.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\bin\Debug\net9.0\MyStack.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\refint\MyStack.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\MyStack.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyStack\obj\Debug\net9.0\ref\MyStack.dll

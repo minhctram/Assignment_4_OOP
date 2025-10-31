@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\bin\Debug\net9.0\Question3.exe
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\bin\Debug\net9.0\Question3.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\bin\Debug\net9.0\Question3.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\bin\Debug\net9.0\Question3.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\bin\Debug\net9.0\Question3.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\refint\Question3.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\Question3.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\Question3\obj\Debug\net9.0\ref\Question3.dll

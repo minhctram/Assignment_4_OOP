@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\bin\Debug\net9.0\MyList.exe
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\bin\Debug\net9.0\MyList.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\bin\Debug\net9.0\MyList.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\bin\Debug\net9.0\MyList.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\bin\Debug\net9.0\MyList.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\refint\MyList.dll
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\MyList.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment4\MyList\obj\Debug\net9.0\ref\MyList.dll
